@@ -1,4 +1,4 @@
-# My Key Learnings
+# My Key Concepts
 Basics of using statistics, regressions, plotting etc. 
 
 ## TOC
